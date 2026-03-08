@@ -9,8 +9,8 @@
       "homepage": "https://github.com/jdsuh28/qupath-extension-cellpose-astra",
       "releases": [
         {
-          "name": "v0.12.0+astra.4",
-          "main_url": "https://github.com/jdsuh28/qupath-extension-cellpose-astra/releases/download/v0.12.0+astra.4/qupath-extension-cellpose-astra.jar",
+          "name": "v0.12.0+astra.6",
+          "main_url": "https://github.com/jdsuh28/qupath-extension-cellpose-astra/releases/download/v0.12.0+astra.6/qupath-extension-cellpose-astra.jar",
           "required_dependency_urls": null,
           "optional_dependency_urls": null,
           "javadoc_urls": null,
